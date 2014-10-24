@@ -2,5 +2,12 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/FRC Simulator/bin" sourcepath="/FRC Simulator/src"/>
+	<classpathentry kind="lib" path="/FRC Test Bench/jinput/jinput.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/karee_000/Documents/Eclipse/FRC/FRC%20Test%20Bench/jinput/apidocs/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="FRC Test Bench/jinput"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
